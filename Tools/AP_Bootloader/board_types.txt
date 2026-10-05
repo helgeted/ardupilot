@@ -397,6 +397,7 @@ AP_HW_TBS_LUCID_H7_WING_AIO          5254
 # IDs 5270-5279 reserved for SpeedyBee
 AP_HW_SpeedyBeeF405WINGV2            5270
 AP_HW_SpeedyBeeF405AIO               5271
+AP_HW_VyriyF4V4                      5279
 
 #IDs 5301-5399 reserved for Sierra Aerospace
 AP_HW_Sierra-TrueNavPro-G4           5301
